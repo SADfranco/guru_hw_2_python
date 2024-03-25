@@ -1,1 +1,1 @@
-print('Hello, world!! It"s second person! How are you?')
+print('Hello, world!! It"s some person! How are you?')
